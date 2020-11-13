@@ -2,6 +2,9 @@ class OurGroup():
     def __init__(self):
         pass
 
+    def Koshchei(self):
+        print("I am Koshchei")
+
     def kolganov(self):
         print("I am kolganov")
 
@@ -22,3 +25,4 @@ class OurGroup():
     
     def stepanova(self):
         print("I am Dasha")
+
