@@ -4,3 +4,6 @@ class OurGroup():
     
     def kolganov(self):
         print("I am kolganov")
+
+    def povolotskii(self):
+        print("Let's talk about bromine")
