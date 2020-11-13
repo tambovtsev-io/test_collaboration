@@ -5,6 +5,9 @@ class OurGroup():
     def khromov(self):
         print("I'm Dima")
 
+    def Koshchei(self):
+        print("I am Koshchei")
+
     def kolganov(self):
         print("I am kolganov")
 
@@ -25,3 +28,4 @@ class OurGroup():
     
     def stepanova(self):
         print("I am Dasha")
+
