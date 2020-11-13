@@ -16,4 +16,6 @@ class OurGroup():
 
     def povolotskii(self):
         print("Let's talk about bromine")
-
+    
+    def stepanova(self):
+        print("I am Dasha")
