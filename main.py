@@ -1,6 +1,6 @@
 class OurGroup():
-    def __init__():
+    def __init__(self):
         pass
 
-    def Philipp():
+    def Philipp(self):
         print("Филипп")
