@@ -10,6 +10,9 @@ class OurGroup():
 
     def kolganov(self):
         print("I am kolganov")
+
+    def Sinitsa(self):
+        print("I am Sinitsa")
     
     def gromov(self):
         pass
