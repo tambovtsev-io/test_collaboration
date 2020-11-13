@@ -11,6 +11,9 @@ class OurGroup():
     def kolganov(self):
         print("I am kolganov")
 
+    def povolotskii_mr(self):
+        print("I am Povolotskii)
+
     def gribova(self):
         print("I am NG")
 
@@ -28,4 +31,3 @@ class OurGroup():
     
     def stepanova(self):
         print("I am Dasha")
-
