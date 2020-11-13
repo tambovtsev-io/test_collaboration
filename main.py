@@ -7,3 +7,6 @@ class OurGroup():
 
     def povolotskii(self):
         print("Let's talk about bromine")
+
+    def zepopa(self):
+        print("popazepopa")
