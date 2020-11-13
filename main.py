@@ -4,7 +4,10 @@ class OurGroup():
 
     def kolganov(self):
         print("I am kolganov")
-    
+
+    def kuzin(self):
+        print("I am kuzin")
+        
     def Philipp(self):
         print("Филипп")
 
@@ -13,5 +16,4 @@ class OurGroup():
 
     def povolotskii(self):
         print("Let's talk about bromine")
-
 
