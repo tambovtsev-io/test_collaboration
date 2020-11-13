@@ -4,3 +4,24 @@ class OurGroup():
 
     def khromov(self):
         print("I'm Dima")
+
+    def kolganov(self):
+        print("I am kolganov")
+
+    def gribova(self):
+        print("I am NG")
+
+    def kuzin(self):
+        print("I am kuzin")
+        
+    def Philipp(self):
+        print("Филипп")
+
+    def tambovtsev(self):
+        print("dratuti")
+
+    def povolotskii(self):
+        print("Let's talk about bromine")
+    
+    def stepanova(self):
+        print("I am Dasha")
