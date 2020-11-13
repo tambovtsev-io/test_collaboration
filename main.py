@@ -5,5 +5,10 @@ class OurGroup():
     def kolganov(self):
         print("I am kolganov")
 
+
     def tambovtsev(self):
         print("dratuti")
+
+    def povolotskii(self):
+        print("Let's talk about bromine")
+
