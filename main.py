@@ -5,5 +5,5 @@ class OurGroup():
     def kolganov(self):
         print("I am kolganov")
 
-    def povolotskii(self):
-        print("Let's talk about bromine")
+    def povolotskii_mr(self):
+        print("I am Povolotskii)
